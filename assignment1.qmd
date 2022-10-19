@@ -3,10 +3,30 @@ title: "Assignment 1"
 date: "2022-10-01"
 ---
 
-This is a template example qmd output page. You may see an example R code below.
+Hi I'm Berk. I'm the instructor of MEF BDA 503 at MEF University. More about me bla bla bla.
 
-```{r}
-set.seed(1)
-vec1 <- sample(LETTERS,5)
-paste0(vec1,collapse="")
-```
+Here is my [Linkedin profile to connect](https://www.linkedin.com/in/berkorbay).
+
+## RStudio Global 2022 "How to use Quarto?"
+
+In this talk, Thomas Mock talked about how to use Quarto in a 2-hour web workshop. agrrhaga
+
+Here is the [link](https://somelink.com).
+
+## Resource 1 - Financial Analysis with R
+
+gaegrgewg
+
+Here is the [link](https://somelink.com).
+
+## Resource 2 - Machine Learning with R using tidymodels
+
+gaegrgewg
+
+Here is the [link](https://somelink.com).
+
+## Resource 3 - Deep Learning in R with torch package
+
+gaegrgewg
+
+Here is the [link](https://somelink.com).
